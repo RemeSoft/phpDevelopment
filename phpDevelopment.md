@@ -4,7 +4,7 @@ In this topic, we will learn about how to make a complete blog website using PHP
 
 After Installation you will get a folder in **C:** drive named "xampp". Inside "xampp", you will find another folder named "htdocs". Create your project folder there.
 
-> **My suggestion is**, First make your project frontend using web language then paste your folder inside htdocs. 
+> **My suggestion is**, First make your frontend using web language then paste it on your htdocs folder. 
 
 A blog website can be divided into two parts. **User** part and **Admin** part.  **The user Part** is a part where the user can read posts and do some activities. But **Admin Part** is a part where an admin can create posts, manage posts, etc.
 
